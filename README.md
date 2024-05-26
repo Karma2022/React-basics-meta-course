@@ -1,4 +1,4 @@
-Basic Calculator APP using React
+**Basic Calculator APP using React**
 
 This mini project makes use of concepts of React such as 
 1. Components
